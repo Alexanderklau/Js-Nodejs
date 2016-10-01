@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
+<script type="text/javascript">
+     function multi() {
+	 a = parseInt(prompt("Please enter first number"));
+	 b = parseInt(prompt("Please enter second number"));
+	 document.forms["form"]["result"].value=a*b;}
+</script>
 </head>
-<body>
-
+<body onload="multi()">
+<form action="/testform.asp"method="get"name="form">
+两数的乘积为:<output name="result"></output>
+</form>
 </body>
 </html>
