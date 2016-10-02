@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<canvas id="myCanvas"style="border: 1px solid;"height="200"width="300"></canvas>
+<script type="text/javascript">
+   var c = document.getElementById("myCanvas");
+   var context = c.getContext("2d");
+   context.fillStyle="#ff00ff";
+   context.strokeStyle="blue";
+   context.fillRect(20,20,100,100);
+   context.strokeRect(20,20,100,100);
+   context.fill();
+   context.stroke();
+   context.save();
+   context.fillStyle="#ff0000";
+   context.strokeStyle="green";
+   context.fillRect(140,20,100,100);
+   context.strokeRect(140,20,100,100);
+   context.fill();
+   context.stroke();
+   context.restore();
+   context.fillRect(20,140,50,50);
+   context.strokeRect(80,140,50,50);
+</script>
+</body>
+</html>
