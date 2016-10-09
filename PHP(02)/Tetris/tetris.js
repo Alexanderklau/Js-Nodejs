@@ -69,8 +69,9 @@ var blockArr = [
                             {x:TETRIS_COLS / 2-1,y:1,color:7},
                             {x:TETRIS_COLS / 2,y:1,color:7},
                             {x:TETRIS_COLS / 2+1,y:1,color:7}
-                             ],
+                             ]
 ];
+
 var initBlock = function() {
     var rand = Math.floor(Math.random() * blockArr.length);
     currentFall = [
@@ -84,3 +85,88 @@ var initBlock = function() {
                        color:blockArr[rand][3].color}
                    ];
 };
+var moveDown = function () {
+    var canDown = true;
+    for (var i = 0 ;i < currentFall.length ; i++)
+        if (currentFall[i].y >= TETRIS_ROWS - 1)
+        {
+            canDown = false;
+            break;
+        }
+    if (tetris_status[currentFall[i].y + 1][currentFall[i].x] != NO_BLOCK)
+    {
+            canDown = false;
+            //noinspection JSAnnotator
+        break;
+    }
+}
+
+if (canDown) {
+    for (var i = 0; i < currentFall.length; i++) {
+        var cur = currentFall[i];
+        tetris_ctx.fillStyle = 'white';
+        tetris_ctx.fillRect(cur.x * CELL_SIZE + 1,
+            cur.y * CELL_SIZE + 1, CELL_SIZE - 2, CELL_SIZE - 2);
+    }
+    for (var i = 0; i < currentFall.length; i++) {
+        var cur = currentFall[i];
+        cur.y++;
+    }
+
+    for (var i = 0; i < currentFall.length; i++) {
+        var cur = currentFall[i];
+        tetris_ctx.fillStyle = colors[cur.color];
+        tetris_ctx.fillRect(cur.x * CELL_SIZE + 1
+            , cur.y * CELL_SIZE + 1, CELL_SIZE - 2, CELL_SIZE - 2);
+    }
+}
+else {
+    for (var i = 0; i < currentFall.length; i++) {
+        var cur = currentFall[i];
+        if (cur.y < 2) {
+            localStorage.removeItem("curScore");
+            localStorage.removeItem("tetris_status");
+            localStorage.removeItem("tetris_speed");
+            if (confirm("You lose!Do you want save you effort")) {
+                maxScore = localStorage.getItem("maxScore");
+                maxScore = maxScore == null ? 0 : maxScore;
+                if (curScore >= maxScore) {
+                    localStorage.setItem("maxScore", curScore);
+                }
+            }
+            isPlaying = false;
+            clearInterval(curTimer);
+            //noinspection JSAnnotator
+            return;
+        }
+        tetris_status[cur.y][cur.x] = cur.color;
+    }
+    lineFull();
+    localStorage.setItem("tetris_status",
+        JSON.stringify(tetris_status));
+    initBlock();
+
+}
+
+var lineFull = function () {
+    for (var i = 0; i < TETRIS_ROWS; i++)
+    {
+        var flag = true;
+        for (var j = 0; j < TETRIS_COLS;j++)
+        {
+            if (tetris_status[i][j] == NO_BLOCK)
+            {
+                flag = false;
+                break;
+            }
+
+        }
+        if (flag)
+        {
+            curScoreEle.innerHTML = curScore+= 100;
+
+        }
+
+    }
+
+}
