@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type"content="text/html;charset=gb2312">
+<title>Insert title here</title>
+</head>
+<body onload="colorload();">
+<script type="text/javascript">
+   if (typeof localStorage === 'undefined') {
+       window.alert("You webserver can not localStorage");
+       }else {
+	     window.alert("You webserver can locatStorage");
+	     var storage = localStorage;
+	     function redSet() {
+		 var value = "red"
+		 document.getElementById("divblock").style.backgroundColor = value;
+		 window.localStorage.selItem("DivBackGroundColor",value);
+		}
+	     function greenSet() {
+		 var value = "green"
+		 document.getElementById("divblock").style.backgroundColor = value;
+		 window.localStorage.setItem("DivBackGroundColor",value);
+	    }
+	     function blueSet() {
+		 var value = "blue"
+		 document.getElementById("divblock").style.backgroundColor = value;
+		 window.localStorage.setItem("DivBackGroundColor",value);
+	    }
+	     function colorload() {
+		 document.getElementById("divblock").style.backgroundColor = window.localStorage.getItem("DivBackGroundColor"); 
+	    }
+    }
+</script>
+<section id="main">
+<button id="redbutton"onclick="redSet()">red</button>
+<button id="greenbutton"onclick="greenSet()">green</button>
+<button id="bluebutton"onclick="blueSet()">blue</button>
+<div id="divblock"style="width: 500px;height: 500px;"></div>
+</body>
+</html>
