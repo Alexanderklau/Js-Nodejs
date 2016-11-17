@@ -1,102 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a987dcfb-65f7-4845-9add-8305920c2891" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/.buildpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/.idea/PHP(01).iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/.settings/.jsdtscope" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/.settings/org.eclipse.php.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/012.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/018.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/03.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/04.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/05.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/06.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/07.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/08.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/09.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/14.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/16.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/17.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/19.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/20.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/21.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/22.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/23.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/24.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/25.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/26.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/27.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/28.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/29.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/30.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/31.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/32.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/address.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/basic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/HTML/form attribute.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(01)/newfile.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/.buildpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/.idea/PHP(02).iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/.settings/.jsdtscope" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/.settings/org.eclipse.php.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/03.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/04.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/05.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/06.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/07.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/08.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/09.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/12.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/1223.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/14.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/16.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/17.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/Tetris/Tetris.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/Tetris/tetris.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/code(example)/Tetris.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/code(example)/tetris.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/move coordinates.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/newfile.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(02)/sql.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(03)/.buildpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(03)/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(03)/.settings/.jsdtscope" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(03)/.settings/org.eclipse.php.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(03)/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(03)/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(04)/.buildpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(04)/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(04)/.settings/.jsdtscope" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(04)/.settings/org.eclipse.php.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(04)/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(04)/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHP(04)/wd.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a987dcfb-65f7-4845-9add-8305920c2891" name="Default" comment="" />
     <ignored path="PHP.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -117,13 +22,24 @@
     <favorites_list name="PHP" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf>
+      <file leaf-file-name="arr.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaScript/arr.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -141,6 +57,8 @@
         <option value="$PROJECT_DIR$/PHP(02)/code(example)/tetris.js" />
         <option value="$PROJECT_DIR$/implicit.js" />
         <option value="$PROJECT_DIR$/PHP(02)/implicit_var.html" />
+        <option value="$PROJECT_DIR$/javaScript/arr.js" />
+        <option value="$PROJECT_DIR$/javaScript/arr.html" />
       </list>
     </option>
   </component>
@@ -185,40 +103,51 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PHP" />
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PHP" />
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PHP" />
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaScript" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Custom" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.implicit_var.html">
-    <configuration default="false" name="17.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/PHP(02)/17.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.arr.html">
     <configuration default="false" name="sql.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/PHP(02)/sql.html">
       <method />
     </configuration>
@@ -229,6 +158,9 @@
       <method />
     </configuration>
     <configuration default="false" name="implicit_var.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/PHP(02)/implicit_var.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="arr.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web/javaScript/arr.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -285,19 +217,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.17.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.sql.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Tetris.html (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.tetris.js" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.implicit_var.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.sql.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Tetris.html (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.tetris.js" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.implicit_var.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.arr.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.implicit_var.html" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.tetris.js" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Tetris.html (1)" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.sql.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.17.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.arr.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.implicit_var.html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.tetris.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Tetris.html (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.sql.html" />
       </list>
     </recent_temporary>
   </component>
@@ -322,11 +254,12 @@
       <workItem from="1477834761069" duration="791000" />
       <workItem from="1477872395382" duration="14571000" />
       <workItem from="1479377306780" duration="733000" />
+      <workItem from="1479393809197" duration="2647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19379000" />
+    <option name="totallyTimeSpent" value="22026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="28" width="1922" height="1019" extended-state="7" />
@@ -368,142 +301,39 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PHP(02)/code(example)/Tetris.html">
+    <entry file="file://$PROJECT_DIR$/PHP(02)/code(example)/Tetris.html" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/code(example)/tetris.js" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/Tetris.html" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/17.html" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/Tetris.html" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js" />
+    <entry file="file://$PROJECT_DIR$/PHP(01)/HTML/03.html" />
+    <entry file="file://$PROJECT_DIR$/PHP(01)/HTML/form attribute.html" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/17.html" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/Tetris.html" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/sql.html" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/code(example)/tetris.js" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/code(example)/Tetris.html" />
+    <entry file="file://$PROJECT_DIR$/implicit.js" />
+    <entry file="file://$PROJECT_DIR$/PHP(02)/implicit_var.html" />
+    <entry file="file://$PROJECT_DIR$/javaScript/arr.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="66">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/code(example)/tetris.js">
+    <entry file="file://$PROJECT_DIR$/javaScript/arr.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2490">
-          <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/Tetris.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/17.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/Tetris.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="76" selection-start-line="26" selection-start-column="76" selection-end-line="26" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(01)/HTML/03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(01)/HTML/form attribute.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/17.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/Tetris.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/sql.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/code(example)/tetris.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="206" column="2" selection-start-line="206" selection-start-column="2" selection-end-line="206" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/code(example)/Tetris.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/implicit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/implicit_var.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="210">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
