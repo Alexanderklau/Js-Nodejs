@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<script type="text/javascript">
+    try {
+        for (var i = 0; i < 10; i++);
+        {
+            document.writeln(i + '<br>');
+            if (i > 4)
+                throw new Error('用户定义错误');
+        }
+
+    }
+    catch (e)
+    {
+        document.writeln('系统出现异常' + e.message + '<br>');
+    }
+    finally
+    {
+        document.writeln('系统的finally 块');
+    }
+</script>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
