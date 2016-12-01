@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a987dcfb-65f7-4845-9add-8305920c2891" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a987dcfb-65f7-4845-9add-8305920c2891" name="Default" comment="" />
     <ignored path="PHP.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,7 +22,20 @@
     <favorites_list name="PHP" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="transfer2.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaScript/transfer2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+              <folding>
+                <element signature="n#!!doc;n#changeAge#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,6 +88,10 @@
         <option value="$PROJECT_DIR$/javaScript/instanceProperty.js" />
         <option value="$PROJECT_DIR$/javaScript/var.js" />
         <option value="$PROJECT_DIR$/javaScript/dynaProperty.js" />
+        <option value="$PROJECT_DIR$/javaScript/functionindepend.js" />
+        <option value="$PROJECT_DIR$/javaScript/separateFunction.js" />
+        <option value="$PROJECT_DIR$/javaScript/transfer.js" />
+        <option value="$PROJECT_DIR$/javaScript/transfer2.js" />
       </list>
     </option>
   </component>
@@ -119,6 +134,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -153,8 +170,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -167,10 +182,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
   </component>
-  <component name="RunManager" selected="Node.js.dynaProperty.js">
-    <configuration default="false" name="emptyStatement.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web/javaScript/emptyStatement.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.functionindepend.js">
     <configuration default="false" name="errif.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web/javaScript/errif.html">
       <method />
     </configuration>
@@ -181,6 +193,9 @@
       <method />
     </configuration>
     <configuration default="false" name="dynaProperty.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="dynaProperty.js" working-dir="$PROJECT_DIR$/javaScript">
+      <method />
+    </configuration>
+    <configuration default="false" name="functionindepend.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="functionindepend.js" working-dir="$PROJECT_DIR$/javaScript">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -237,19 +252,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.emptyStatement.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.errif.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.switch.html" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.var.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.dynaProperty.js" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.errif.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.switch.html" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.var.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.dynaProperty.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.functionindepend.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.dynaProperty.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.var.js" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.switch.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.errif.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.emptyStatement.html" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.functionindepend.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.dynaProperty.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.var.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.switch.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.errif.html" />
       </list>
     </recent_temporary>
   </component>
@@ -284,17 +299,18 @@
       <workItem from="1480290123336" duration="3028000" />
       <workItem from="1480379360316" duration="619000" />
       <workItem from="1480469473392" duration="1812000" />
+      <workItem from="1480553229974" duration="2402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42092000" />
+    <option name="totallyTimeSpent" value="44494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1018" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973932" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973932" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -330,28 +346,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javaScript/compare.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaScript/logic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaScript/arr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP(02)/code(example)/Tetris.html" />
     <entry file="file://$PROJECT_DIR$/PHP(02)/code(example)/tetris.js" />
     <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js" />
     <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/Tetris.html" />
@@ -557,7 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -565,8 +558,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
           <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/functionindepend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding>
-            <element signature="n#!!doc;n#Student#0" expanded="false" />
+            <element signature="n#!!doc;n#Person#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/separateFunction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc;n#Dog#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/transfer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc;n#change#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/transfer2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!doc;n#changeAge#0" expanded="false" />
           </folding>
         </state>
       </provider>
