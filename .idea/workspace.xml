@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a987dcfb-65f7-4845-9add-8305920c2891" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WopiHost/office/test.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WopiHost/office/test.pptx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WopiHost/office/test.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WopiHost/office/test1.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WopiHost/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WopiHost/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WopiHost/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WopiHost/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/h5 yuansu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_date.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_date_mounth.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_email.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_lable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_number.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_range.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_teble_lable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_url.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/new.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PHP.iws" />
@@ -32,11 +36,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="05.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javaScript/05.html">
+      <file leaf-file-name="html_range.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML/h5 study/html_range.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            <state relative-caret-position="297">
+              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html_date.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML/h5 study/html_date.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html_date_mounth.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/HTML/h5 study/html_date_mounth.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -47,8 +71,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -58,8 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PHP(02)/Tetris/Tetris.html" />
-        <option value="$PROJECT_DIR$/PHP(02)/Tetris/tetris.js" />
         <option value="$PROJECT_DIR$/PHP(02)/17.html" />
         <option value="$PROJECT_DIR$/PHP(02)/sql.html" />
         <option value="$PROJECT_DIR$/PHP(02)/code(example)/Tetris.html" />
@@ -99,6 +121,18 @@
         <option value="$PROJECT_DIR$/javaScript/separateFunction.js" />
         <option value="$PROJECT_DIR$/javaScript/transfer.js" />
         <option value="$PROJECT_DIR$/javaScript/transfer2.js" />
+        <option value="$PROJECT_DIR$/javaScript/05.html" />
+        <option value="$PROJECT_DIR$/html/HTML/h5 study/01.html" />
+        <option value="$PROJECT_DIR$/html/HTML/h5 study/html_lable.html" />
+        <option value="$PROJECT_DIR$/html/HTML/h5 study/html_teble_lable.html" />
+        <option value="$PROJECT_DIR$/html/HTML/h5 study/html_login.html" />
+        <option value="$PROJECT_DIR$/html/HTML/h5 study/h5 yuansu.html" />
+        <option value="$PROJECT_DIR$/html/HTML/h5 study/html_email.html" />
+        <option value="$PROJECT_DIR$/html/HTML/h5 study/html_url.html" />
+        <option value="$PROJECT_DIR$/html/HTML/h5 study/html_number.html" />
+        <option value="$PROJECT_DIR$/html/HTML/h5 study/html_range.html" />
+        <option value="$PROJECT_DIR$/html/HTML/h5 study/html_date.html" />
+        <option value="$PROJECT_DIR$/html/HTML/h5 study/html_date_mounth.html" />
       </list>
     </option>
   </component>
@@ -139,18 +173,36 @@
               <item name="web-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="web-project" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="web-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-project" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-project" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-project" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+              <item name="h5 study" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -173,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.functionindepend.js">
+  <component name="RunManager" selected="JavaScript Debug.html_date_mounth.html">
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -226,25 +278,25 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <configuration name="dynaProperty.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="dynaProperty.js" working-dir="$PROJECT_DIR$/javaScript" />
-    <configuration name="errif.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web/javaScript/errif.html" />
-    <configuration name="functionindepend.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="functionindepend.js" working-dir="$PROJECT_DIR$/javaScript" />
-    <configuration name="switch.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web/javaScript/switch.html" />
-    <configuration name="var.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="var.js" working-dir="$PROJECT_DIR$/javaScript" />
+    <configuration name="html_date.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-project/html/HTML/h5 study/html_date.html" />
+    <configuration name="html_date_mounth.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-project/html/HTML/h5 study/html_date_mounth.html" />
+    <configuration name="html_number.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-project/html/HTML/h5 study/html_number.html" />
+    <configuration name="html_range.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-project/html/HTML/h5 study/html_range.html" />
+    <configuration name="html_url.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-project/html/HTML/h5 study/html_url.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.errif.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.switch.html" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.var.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.dynaProperty.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.functionindepend.js" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.html_url.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.html_number.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.html_range.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.html_date.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.html_date_mounth.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.functionindepend.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.dynaProperty.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.var.js" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.switch.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.errif.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.html_date_mounth.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.html_date.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.html_range.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.html_number.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.html_url.html" />
       </list>
     </recent_temporary>
   </component>
@@ -284,23 +336,25 @@
       <workItem from="1509690383753" duration="60000" />
       <workItem from="1510042398035" duration="139000" />
       <workItem from="1510565923376" duration="25000" />
+      <workItem from="1515046524037" duration="269000" />
+      <workItem from="1515047531288" duration="7429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45296000" />
+    <option name="totallyTimeSpent" value="52994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="858" y="33" width="1922" height="1095" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332623" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1716418" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1945629" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1945629" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -333,50 +387,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/Tetris.html" />
-    <entry file="file://$PROJECT_DIR$/PHP(02)/17.html" />
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js" />
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js" />
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/Tetris.html" />
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js" />
-    <entry file="file://$PROJECT_DIR$/PHP(01)/HTML/03.html" />
-    <entry file="file://$PROJECT_DIR$/PHP(01)/HTML/form attribute.html" />
-    <entry file="file://$PROJECT_DIR$/PHP(02)/17.html" />
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/Tetris.html" />
-    <entry file="file://$PROJECT_DIR$/PHP(02)/Tetris/tetris.js" />
-    <entry file="file://$PROJECT_DIR$/PHP(02)/sql.html" />
-    <entry file="file://$PROJECT_DIR$/PHP(02)/code(example)/tetris.js" />
-    <entry file="file://$PROJECT_DIR$/PHP(02)/code(example)/Tetris.html" />
-    <entry file="file://$PROJECT_DIR$/implicit.js" />
-    <entry file="file://$PROJECT_DIR$/PHP(02)/implicit_var.html" />
-    <entry file="file://$PROJECT_DIR$/javaScript/arr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaScript/arr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaScript/simpleFuction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaScript/compare.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javaScript/logic.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -583,8 +593,170 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javaScript/05.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/20.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/24.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/05.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/08.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/17.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/16.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/h5 study/01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#192#196#0" expanded="false" />
+            <element signature="e#197#201#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/h5 study/html_lable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/h5 study/html_teble_lable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/h5 study/html_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/h5 study/html_email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/h5 study/html_url.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/h5 study/html_number.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/h5 study/h5 yuansu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/h5 study/html_range.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/h5 study/html_date.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML/h5 study/html_date_mounth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding />
         </state>
       </provider>
