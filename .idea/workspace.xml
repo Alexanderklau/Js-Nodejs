@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a987dcfb-65f7-4845-9add-8305920c2891" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/h5 yuansu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_date.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_date_mounth.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_email.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_lable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_number.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_range.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_teble_lable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/HTML/h5 study/html_url.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/new.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a987dcfb-65f7-4845-9add-8305920c2891" name="Default" comment="" />
     <ignored path="PHP.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -337,16 +323,15 @@
       <workItem from="1510042398035" duration="139000" />
       <workItem from="1510565923376" duration="25000" />
       <workItem from="1515046524037" duration="269000" />
-      <workItem from="1515047531288" duration="7429000" />
+      <workItem from="1515047531288" duration="7468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52994000" />
+    <option name="totallyTimeSpent" value="53033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="858" y="33" width="1922" height="1095" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1716418" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -354,7 +339,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1945629" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1945629" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
