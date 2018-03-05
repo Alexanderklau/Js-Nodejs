@@ -1,0 +1,20 @@
+2018-03-05 13:01:02,826 [Thread-2:123145427795968] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /index/
+Traceback (most recent call last):
+  File "/Volumes/4/py2dev/lib/python2.7/site-packages/django/core/handlers/base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/yemilice/Desktop/work/web-project/django-blog/blog_project/blog/views.py", line 18, in index
+    return render(request, 'index.html', locals())
+  File "/Volumes/4/py2dev/lib/python2.7/site-packages/django/shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "/Volumes/4/py2dev/lib/python2.7/site-packages/django/template/loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "/Volumes/4/py2dev/lib/python2.7/site-packages/django/template/backends/django.py", line 74, in render
+    return self.template.render(context)
+  File "/Volumes/4/py2dev/lib/python2.7/site-packages/django/template/base.py", line 208, in render
+    with context.bind_template(self):
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/contextlib.py", line 17, in __enter__
+    return self.gen.next()
+  File "/Volumes/4/py2dev/lib/python2.7/site-packages/django/template/context.py", line 235, in bind_template
+    updates.update(processor(self.request))
+TypeError: global_setting() takes no arguments (1 given)
+2018-03-05 13:03:16,541 [Thread-28:123145487089664] [django.request:170] [base:get_response] [WARNING]- Not Found: /

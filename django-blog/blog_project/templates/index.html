@@ -3,22 +3,22 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>某某某的个人博客</title>
+<title>{{ SITE_NAME }}</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
-<link href='{% static 'css/base.css' %}' rel="stylesheet">
-<link href={% static 'css/index.css' %} rel="stylesheet">
-<script type="text/javascript" src='{% static 'js/jquery.min.js' %}'></script>
-<script type="text/javascript" src='{% static 'js/sliders.js' %}'></script>
+<link href="{% static 'css/base.css' %}" rel="stylesheet">
+<link href="{% static 'css/index.css' %}" rel="stylesheet">
+<script type="text/javascript" src="{% static 'js/jquery.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/sliders.js' %}"></script>
 <!--[if lt IE 9]>
-<script src="js/modernizr.js"></script>
+<script src="{% static 'js/modernizr.js' %}"></script>
 <![endif]-->
 </head>
 <body>
 <header>
   <div class="logo">
-      <h1>某某某的个人博客</h1>
-      <p>梦虽虚幻,却是自己的梦想；位虽低微,却是自己的岗位；屋虽简陋,却是自己的家；志虽渺小,却是自己的追求。</p>
+      <h1>{{ SITE_NAME }}</h1>
+      <p>{{ SITE_DESC }}</p>
   </div>
   <nav id="topnav" class="f_r">
     <ul>
@@ -31,7 +31,7 @@
   <div class="l_box f_l">
     <div class="banner">
       <div id="slide-holder">
-        <div id="slide-runner"> <a href="/" target="_blank"><img id="slide-img-1" src='{% static 'images/a1.jpg' %}' alt="" /></a> <a href="/" target="_blank"><img id="slide-img-2" src='{% static 'images/a2.jpg' %}'  alt="" /></a> <a href="/" target="_blank"><img id="slide-img-3" src='{% static 'images/a3.jpg' %}' alt="" /></a> <a href="/" target="_blank"><img id="slide-img-4" src='{% static 'images/a4.jpg'%}' alt="" /></a>
+        <div id="slide-runner"> <a href="/" target="_blank"><img id="slide-img-1" src="{% static 'images/a1.jpg' %}" alt="" /></a> <a href="/" target="_blank"><img id="slide-img-2" src='{% static 'images/a2.jpg' %}'  alt="" /></a> <a href="/" target="_blank"><img id="slide-img-3" src="{% static 'images/a3.jpg' %}" alt="" /></a> <a href="/" target="_blank"><img id="slide-img-4" src='{% static 'images/a4.jpg'%}' alt="" /></a>
           <div id="slide-controls">
             <p id="slide-client" class="text"><strong></strong><span></span></p>
             <p id="slide-desc" class="text"></p>
