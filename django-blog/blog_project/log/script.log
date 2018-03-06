@@ -18,3 +18,4 @@ Traceback (most recent call last):
     updates.update(processor(self.request))
 TypeError: global_setting() takes no arguments (1 given)
 2018-03-05 13:03:16,541 [Thread-28:123145487089664] [django.request:170] [base:get_response] [WARNING]- Not Found: /
+2018-03-06 13:19:25,023 [Thread-25:123145487446016] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico

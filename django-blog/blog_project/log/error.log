@@ -5,3 +5,5 @@
 2018-03-05 13:02:29,370 [Thread-26:123145487089664] [blog.views:17] [views:index] [ERROR]- [Errno 2] No such file or directory: 'ss.js'
 2018-03-05 13:02:30,341 [Thread-27:123145487089664] [blog.views:17] [views:index] [ERROR]- [Errno 2] No such file or directory: 'ss.js'
 2018-03-05 13:03:22,201 [Thread-29:123145491296256] [blog.views:17] [views:index] [ERROR]- [Errno 2] No such file or directory: 'ss.js'
+2018-03-06 13:19:24,161 [Thread-2:123145487446016] [blog.views:17] [views:index] [ERROR]- [Errno 2] No such file or directory: 'ss.js'
+2018-03-06 13:45:05,959 [Thread-22:123145331884032] [blog.views:17] [views:index] [ERROR]- [Errno 2] No such file or directory: 'ss.js'
