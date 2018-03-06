@@ -38,6 +38,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'blog'
 )
 
 MIDDLEWARE_CLASSES = (
@@ -78,8 +79,12 @@ WSGI_APPLICATION = 'blog_project.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': "blogdb",
+        'USER':'root',
+        'PASSWORD':'123456',
+        'HOST':'',
+        'PORT':'',
     }
 }
 
@@ -115,6 +120,8 @@ QQ = "123456789"
 RSS = "pro!!!!!"
 EMAILS = "123@qq.com"
 
+# user model
+AUTH_USER_MODEL = 'blog.User'
 
 
 # 自定义日志输出信息
