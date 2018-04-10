@@ -1,8 +1,6 @@
 # coding: utf-8
 __author__ = 'lau.wenbo'
 
-
-
 import tornado.ioloop
 import tornado.options
 import tornado.websocket
@@ -12,7 +10,6 @@ import uuid
 import logging
 import os.path
 from tornado.options import define, options
-
 
 define("port", default=8888, help="run on the given port", type=int)
 
@@ -24,13 +21,14 @@ class Application(tornado.web.Application):
             (r"/chatsocket", ChatSocketHandler)
         ]
         settings = dict(
-            cookie_secret = "You_CANT_GUESS_MY_SECRET",
-            template_path = os.path.join(os.path.dirname(__file__), "templates"),
-            static_path = os.path.join(os.path.dirname(__file__), "static"),
-            xsrf_cookies = True,
+            cookie_secret="You_CANT_GUESS_MY_SECRET",
+            template_path=os.path.join(os.path.dirname(__file__), "templates"),
+            static_path=os.path.join(os.path.dirname(__file__), "static"),
+            xsrf_cookies=True,
         )
 
         super(Application, self).__init__(handlers, **settings)
+
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
@@ -49,13 +47,11 @@ class ChatSocketHandler(tornado.websocket.WebSocketHandler):
         for waiter in cls.waiters:
             try:
                 waiter.write_message(chat)
-            except:
+            except Exception as e:
                 logging.error("Error sending message", exc_info=True)
-
 
     def on_close(self):
         ChatSocketHandler.waiters.remove(self)
-
 
     def on_message(self, message):
         logging.info("got message %r", message)
